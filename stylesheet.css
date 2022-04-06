@@ -1,0 +1,15 @@
+.title {
+  color: yellow;
+  background-color: hotpink;
+  margin: 300px 50px;
+  border-bottom: 50px solid red
+}
+span {
+  color: red;
+  font-size: 50px;
+  font-family: serif;
+}
+li {
+  list-style: none;
+  float: left;
+}   
